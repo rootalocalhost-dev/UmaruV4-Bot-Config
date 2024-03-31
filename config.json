@@ -1,14 +1,3 @@
 {
-        "kernel": [
-		"https://3wvz67-8080.csb.app",
-		"https://v8vgcw-8080.csb.app",
-		"https://s3f7nt-8080.csb.app",
-		"https://nzp3mx-8080.csb.app",
-		"https://chn746-8080.csb.app",
-		"https://f979hf-8080.csb.app",
-		"https://8smj8q-8080.csb.app",
-		"https://84zxvs-8080.csb.app",
-		"https://x39xzr-8080.csb.app",
-		"https://5mgs28-8080.csb.app"
-	]
+        "kernel": []
 }
