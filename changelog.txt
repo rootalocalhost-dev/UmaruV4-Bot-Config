@@ -1,1 +1,6 @@
+✨ Changelog
+Fixed some bugs
 
+v40.0.4
+- [Fixed] Encrypt kernel API
+- [Fixed] When there is a new update the notification to the system admin is not sent
