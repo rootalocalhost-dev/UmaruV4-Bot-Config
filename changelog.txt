@@ -1,6 +1,12 @@
 ✨ Changelog
 Fixed some bugs
 
+v40.0.6
+- [New] add new button in file manager.
+
+✨ Changelog
+Fixed some bugs
+
 v40.0.5
 - [Fixed] When there is a new update, After update is not restarting
 
