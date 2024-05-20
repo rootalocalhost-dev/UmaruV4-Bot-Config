@@ -1,5 +1,5 @@
 ✨ Changelog
-Fixed some bugs
+This update is to improve and optimize the UmaruV4 system.
 
 v40.0.6
 - [New] add new button in file manager.
