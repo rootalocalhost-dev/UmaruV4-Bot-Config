@@ -1,8 +1,10 @@
 {
+	"dashboardKeySalt": "",
+	"email": "",
+	"password": "",
+	"loginCredentialEncryption": true,
 	"kernel": [
-		"MyIRhTCiWfpjRMQOfNideVR4qeyii/sKEPyodIVWmpQ=",
-		"hJieuymIu0uVnTcLUrJZMPwzYweX+ORtx1Y3rYHKbpo=",
 		"MyIRhTCiWfpjRMQOfNideWVRmCyVrgdLDFCs/2qHsM0=",
-		"hJieuymIu0uVnTcLUrJZMAy7BG/xfWm0f8ZZjpWhfiY="
+		"MyIRhTCiWfpjRMQOfNideVR4qeyii/sKEPyodIVWmpQ="
 	]
 }
